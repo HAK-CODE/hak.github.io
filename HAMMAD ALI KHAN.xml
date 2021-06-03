@@ -1,0 +1,1183 @@
+<?xml version="1.0"?>
+<root ptr="0x563c5f24a800" id="0" symbol="11SwRootFrame" lower="1">
+ <sfxViewShells>
+  <SwView>
+   <SfxViewShell ptr="0x563c5f159280" id="0"/>
+   <SwCursorShell>
+    <SwViewShell/>
+    <m_pCurrentCursor>
+     <SwPaM>
+      <point>
+       <SwPosition nNode="118" nContent="1"/>
+      </point>
+     </SwPaM>
+    </m_pCurrentCursor>
+   </SwCursorShell>
+  </SwView>
+ </sfxViewShells>
+ <infos>
+  <bounds left="284" top="284" width="18669" height="68204" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+  <prtBounds left="0" top="0" width="18669" height="68204"/>
+ </infos>
+ <page ptr="0x563c5f237a40" id="1" symbol="11SwPageFrame" next="57" upper="0" lower="2">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="7047" top="284" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1440" top="1440" width="9026" height="13958"/>
+  </infos>
+  <body ptr="0x563c5f1454a0" id="2" symbol="11SwBodyFrame" upper="1" lower="3">
+   <infos>
+    <bounds left="8487" top="1724" width="9026" height="13958" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9026" height="13958"/>
+   </infos>
+   <txt ptr="0x563c5f2d62d0" id="3" symbol="11SwTextFrame" next="4" upper="2" txtNodeIndex="38" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="1724" width="9026" height="576" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9026" height="576"/>
+    </infos>
+HAMMAD ALI KHAN    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="2113"/>
+    <Text nLength="15" nType="PortionType::Text" nHeight="576" nWidth="4800" Portion="HAMMAD ALI KHAN"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="2114"/>
+    <LineBreak nWidth="9027" Line="HAMMAD ALI KHAN"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f2d6630" id="4" symbol="11SwTextFrame" next="5" prev="3" upper="2" txtNodeIndex="39" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="2300" width="9026" height="738" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="206" width="9026" height="532"/>
+    </infos>
+                                    Email: hammad4898@gmail.com | Contact: +923362148088    <Text nLength="75" nType="PortionType::Para" nHeight="256" nWidth="7398" Portion="                                    Email: hammad4898@gmail.com | Contact: "/>
+    <LineBreak nWidth="7398" Line="                                    Email: hammad4898@gmail.com | Contact: "/>
+    <Text nLength="13" nType="PortionType::Lay" nHeight="256" nWidth="1864" Portion="+923362148088"/>
+    <LineBreak nWidth="1864" Line="+923362148088"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f2ec320" id="5" symbol="11SwTextFrame" next="6" prev="4" upper="2" txtNodeIndex="40" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="3038" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x563c5f2d0ea0" id="87" symbol="19SwFlyInContentFrame" lower="88">
+      <infos>
+       <bounds left="8487" top="3218" width="8790" height="30" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="0" top="0" width="8790" height="30"/>
+      </infos>
+      <notxt ptr="0x563c5f202360" id="88" symbol="13SwNoTextFrame" upper="87">
+       <infos>
+        <bounds left="8487" top="3218" width="8790" height="30" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="8790" height="30"/>
+       </infos>
+      </notxt>
+     </fly>
+     <fly ptr="0x563c5f1e94a0" id="73" symbol="19SwFlyAtContentFrame" lower="74">
+      <infos>
+       <bounds left="8379" top="3608" width="7735" height="3037" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="0" top="0" width="7735" height="3037"/>
+      </infos>
+      <tab ptr="0x563c5f19b530" id="74" symbol="10SwTabFrame" upper="73" lower="75">
+       <infos>
+        <bounds left="8379" top="3608" width="7735" height="3037" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="7735" height="3037"/>
+       </infos>
+       <row ptr="0x563c5f21e820" id="75" symbol="10SwRowFrame" upper="74" lower="76">
+        <infos>
+         <bounds left="8379" top="3608" width="7735" height="3037" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+         <prtBounds left="0" top="0" width="7735" height="3037"/>
+        </infos>
+        <cell ptr="0x563c5f218b70" id="76" symbol="11SwCellFrame" next="78" upper="75" lower="77" rowspan="1">
+         <infos>
+          <bounds left="8379" top="3608" width="1547" height="3037" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+          <prtBounds left="108" top="0" width="1331" height="3037"/>
+         </infos>
+         <txt ptr="0x563c5f216da0" id="77" symbol="11SwTextFrame" upper="76" txtNodeIndex="20" WritingMode="Horizontal">
+          <infos>
+           <bounds left="8487" top="3608" width="1331" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+           <prtBounds left="0" top="0" width="1331" height="233"/>
+          </infos>
+EDUCATION          <Text nLength="9" nType="PortionType::Para" nHeight="233" nWidth="1315" Portion="EDUCATION"/>
+          <LineBreak nWidth="1315" Line="EDUCATION"/>
+          <Finish/>
+         </txt>
+        </cell>
+        <cell ptr="0x563c5f25cf40" id="78" symbol="11SwCellFrame" prev="76" upper="75" lower="79" rowspan="1">
+         <infos>
+          <bounds left="9926" top="3608" width="6188" height="3037" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+          <prtBounds left="108" top="0" width="5972" height="3037"/>
+         </infos>
+         <txt ptr="0x563c5f22b720" id="79" symbol="11SwTextFrame" next="80" upper="78" txtNodeIndex="23" WritingMode="Horizontal">
+          <infos>
+           <bounds left="10034" top="3934" width="5972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+           <prtBounds left="0" top="0" width="5972" height="233"/>
+          </infos>
+BS (COMPUTER SCIENCE), 2011-2015           <Text nLength="21" nType="PortionType::Text" nHeight="233" nWidth="2823" Portion="BS (COMPUTER SCIENCE)"/>
+          <Text nLength="2" nType="PortionType::Text" nHeight="233" nWidth="127" Portion=", "/>
+          <Text nLength="9" nType="PortionType::Text" nHeight="233" nWidth="1196" Portion="2011-2015"/>
+          <Text nLength="1" nType="PortionType::Text" nHeight="233" nWidth="64" Portion=" "/>
+          <LineBreak nWidth="4210" Line="BS (COMPUTER SCIENCE), 2011-2015 "/>
+          <Finish/>
+         </txt>
+         <txt ptr="0x563c5f214c40" id="80" symbol="11SwTextFrame" next="81" prev="79" upper="78" txtNodeIndex="24" WritingMode="Horizontal">
+          <infos>
+           <bounds left="10034" top="4167" width="5972" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+           <prtBounds left="0" top="0" width="5972" height="280"/>
+          </infos>
+FAST-NUCES, KARACHI          <Text nLength="19" nType="PortionType::Para" nHeight="280" nWidth="2739" Portion="FAST-NUCES, KARACHI"/>
+          <LineBreak nWidth="2739" Line="FAST-NUCES, KARACHI"/>
+          <Finish/>
+         </txt>
+         <txt ptr="0x563c5f219e00" id="81" symbol="11SwTextFrame" next="82" prev="80" upper="78" txtNodeIndex="25" WritingMode="Horizontal">
+          <infos>
+           <bounds left="10034" top="4447" width="5972" height="335" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+           <prtBounds left="0" top="55" width="5972" height="280"/>
+          </infos>
+          <Finish/>
+         </txt>
+         <txt ptr="0x563c5f22a200" id="82" symbol="11SwTextFrame" next="83" prev="81" upper="78" txtNodeIndex="26" WritingMode="Horizontal">
+          <infos>
+           <bounds left="10034" top="4782" width="5972" height="288" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+           <prtBounds left="0" top="55" width="5972" height="233"/>
+          </infos>
+INTERMEDIATE (PRE-ENGINEERING), 2009-2011           <Text nLength="41" nType="PortionType::Text" nHeight="233" nWidth="5330" Portion="INTERMEDIATE (PRE-ENGINEERING), 2009-2011"/>
+          <Text nLength="1" nType="PortionType::Text" nHeight="233" nWidth="64" Portion=" "/>
+          <LineBreak nWidth="5394" Line="INTERMEDIATE (PRE-ENGINEERING), 2009-2011 "/>
+          <Finish/>
+         </txt>
+         <txt ptr="0x563c5f256290" id="83" symbol="11SwTextFrame" next="84" prev="82" upper="78" txtNodeIndex="27" WritingMode="Horizontal">
+          <infos>
+           <bounds left="10034" top="5070" width="5972" height="560" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+           <prtBounds left="0" top="0" width="5972" height="560"/>
+          </infos>
+COMMECS INSTITUTE OF BUSINESS AND EMERGING SCIENCES           <Text nLength="34" nType="PortionType::Para" nHeight="280" nWidth="4919" Portion="COMMECS INSTITUTE OF BUSINESS AND "/>
+          <LineBreak nWidth="4919" Line="COMMECS INSTITUTE OF BUSINESS AND "/>
+          <Text nLength="18" nType="PortionType::Lay" nHeight="280" nWidth="2646" Portion="EMERGING SCIENCES "/>
+          <LineBreak nWidth="2646" Line="EMERGING SCIENCES "/>
+          <Finish/>
+         </txt>
+         <txt ptr="0x563c5f24c920" id="84" symbol="11SwTextFrame" next="85" prev="83" upper="78" txtNodeIndex="28" WritingMode="Horizontal">
+          <infos>
+           <bounds left="10034" top="5630" width="5972" height="327" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+           <prtBounds left="0" top="71" width="5972" height="256"/>
+          </infos>
+           <Text nLength="1" nType="PortionType::Para" nHeight="256" nWidth="64" Portion=" "/>
+          <LineBreak nWidth="64" Line=" "/>
+          <Finish/>
+         </txt>
+         <txt ptr="0x563c5f216b10" id="85" symbol="11SwTextFrame" next="86" prev="84" upper="78" txtNodeIndex="29" WritingMode="Horizontal">
+          <infos>
+           <bounds left="10034" top="5957" width="5972" height="408" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+           <prtBounds left="0" top="175" width="5972" height="233"/>
+          </infos>
+MATRICULATION (SCIENCE), 2007-2009           <Text nLength="34" nType="PortionType::Text" nHeight="233" nWidth="4405" Portion="MATRICULATION (SCIENCE), 2007-2009"/>
+          <Text nLength="1" nType="PortionType::Text" nHeight="233" nWidth="64" Portion=" "/>
+          <LineBreak nWidth="4469" Line="MATRICULATION (SCIENCE), 2007-2009 "/>
+          <Finish/>
+         </txt>
+         <txt ptr="0x563c5f222550" id="86" symbol="11SwTextFrame" prev="85" upper="78" txtNodeIndex="30" WritingMode="Horizontal">
+          <infos>
+           <bounds left="10034" top="6365" width="5972" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+           <prtBounds left="0" top="0" width="5972" height="280"/>
+          </infos>
+HAMDARD PUBLIC SCHOOL           <Text nLength="22" nType="PortionType::Para" nHeight="280" nWidth="3350" Portion="HAMDARD PUBLIC SCHOOL "/>
+          <LineBreak nWidth="3350" Line="HAMDARD PUBLIC SCHOOL "/>
+          <Finish/>
+         </txt>
+        </cell>
+       </row>
+      </tab>
+     </fly>
+    </anchored>
+*    <Special nLength="1" nType="PortionType::FlyCnt" rText="" nHeight="30" nWidth="8790"/>
+    <LineBreak nWidth="8790"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f29a9d0" id="6" symbol="11SwTextFrame" next="7" prev="5" upper="2" txtNodeIndex="41" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="3474" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="256" nWidth="7807"/>
+    <LineBreak nWidth="7807"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f1b3b50" id="7" symbol="11SwTextFrame" next="8" prev="6" upper="2" txtNodeIndex="42" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="3910" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="256" nWidth="7807"/>
+    <LineBreak nWidth="7807"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f1b2360" id="8" symbol="11SwTextFrame" next="9" prev="7" upper="2" txtNodeIndex="43" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="4346" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="256" nWidth="7807"/>
+    <LineBreak nWidth="7807"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f124640" id="9" symbol="11SwTextFrame" next="10" prev="8" upper="2" txtNodeIndex="44" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="4782" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="256" nWidth="7807"/>
+    <LineBreak nWidth="7807"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f1e3570" id="10" symbol="11SwTextFrame" next="11" prev="9" upper="2" txtNodeIndex="45" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="5218" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="256" nWidth="7807"/>
+    <LineBreak nWidth="7807"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f28b7f0" id="11" symbol="11SwTextFrame" next="12" prev="10" upper="2" txtNodeIndex="46" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="5654" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="256" nWidth="7807"/>
+    <LineBreak nWidth="7807"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f2640c0" id="12" symbol="11SwTextFrame" next="13" prev="11" upper="2" txtNodeIndex="47" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="6090" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="256" nWidth="7807"/>
+    <LineBreak nWidth="7807"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f1f4890" id="13" symbol="11SwTextFrame" next="14" prev="12" upper="2" txtNodeIndex="48" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="6526" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x563c5f0a5fc0" id="89" symbol="19SwFlyInContentFrame" lower="90">
+      <infos>
+       <bounds left="8487" top="6706" width="8790" height="30" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="0" top="0" width="8790" height="30"/>
+      </infos>
+      <notxt ptr="0x563c5f202220" id="90" symbol="13SwNoTextFrame" upper="89">
+       <infos>
+        <bounds left="8487" top="6706" width="8790" height="30" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="8790" height="30"/>
+       </infos>
+      </notxt>
+     </fly>
+    </anchored>
+*    <Special nLength="1" nType="PortionType::FlyCnt" rText="" nHeight="30" nWidth="8790"/>
+    <LineBreak nWidth="8790"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f1cd460" id="14" symbol="11SwTextFrame" next="15" prev="13" upper="2" txtNodeIndex="49" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="6962" width="9026" height="413" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="233"/>
+    </infos>
+SKILLS     <Text nLength="7" nType="PortionType::Para" nHeight="233" nWidth="842" Portion="SKILLS "/>
+    <LineBreak nWidth="842" Line="SKILLS "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f2deb10" id="15" symbol="11SwTextFrame" next="16" prev="14" upper="2" txtNodeIndex="50" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="7375" width="9026" height="411" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="178" width="9026" height="233"/>
+    </infos>
+Programming Languages: Python, JavaScript, JAVA, C/C++, C#, R, Scala, GO, RUST    <Text nLength="23" nType="PortionType::Text" nHeight="233" nWidth="2973" Portion="Programming Languages: "/>
+    <Text nLength="55" nType="PortionType::Text" nHeight="233" nWidth="5694" Portion="Python, JavaScript, JAVA, C/C++, C#, R, Scala, GO, RUST"/>
+    <LineBreak nWidth="8667" Line="Programming Languages: Python, JavaScript, JAVA, C/C++, C#, R, Scala, GO, RUST"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f29a550" id="16" symbol="11SwTextFrame" next="17" prev="15" upper="2" txtNodeIndex="51" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="7786" width="9026" height="411" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="178" width="9026" height="233"/>
+    </infos>
+Framework/Stack Web: Ruby on Rails, Flask, Django, Express, OpenCV    <Text nLength="21" nType="PortionType::Text" nHeight="233" nWidth="2686" Portion="Framework/Stack Web: "/>
+    <Text nLength="45" nType="PortionType::Text" nHeight="233" nWidth="4689" Portion="Ruby on Rails, Flask, Django, Express, OpenCV"/>
+    <LineBreak nWidth="7375" Line="Framework/Stack Web: Ruby on Rails, Flask, Django, Express, OpenCV"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f281810" id="17" symbol="11SwTextFrame" next="18" prev="16" upper="2" txtNodeIndex="52" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="8197" width="9026" height="411" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="178" width="9026" height="233"/>
+    </infos>
+Big Data: Hadoop, Spark, Kafka, Flume, ZooKeeper, Elastic Search (ELK)    <Text nLength="10" nType="PortionType::Text" nHeight="233" nWidth="1115" Portion="Big Data: "/>
+    <Text nLength="60" nType="PortionType::Text" nHeight="233" nWidth="6246" Portion="Hadoop, Spark, Kafka, Flume, ZooKeeper, Elastic Search (ELK)"/>
+    <LineBreak nWidth="7361" Line="Big Data: Hadoop, Spark, Kafka, Flume, ZooKeeper, Elastic Search (ELK)"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f29c6f0" id="18" symbol="11SwTextFrame" next="19" prev="17" upper="2" txtNodeIndex="53" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="8608" width="9026" height="411" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="178" width="9026" height="233"/>
+    </infos>
+Databases: SQL/PLSQL, ER/Schema Designing, MongoDB, Postgres, InfluxDB, Cassandra     <Text nLength="11" nType="PortionType::Text" nHeight="233" nWidth="1333" Portion="Databases: "/>
+    <Text nLength="70" nType="PortionType::Text" nHeight="233" nWidth="7651" Portion="SQL/PLSQL, ER/Schema Designing, MongoDB, Postgres, InfluxDB, Cassandra"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="8984" Line="Databases: SQL/PLSQL, ER/Schema Designing, MongoDB, Postgres, InfluxDB, Cassandra "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f2aac90" id="19" symbol="11SwTextFrame" next="20" prev="18" upper="2" txtNodeIndex="54" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="9019" width="9026" height="1415" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="178" width="9026" height="1237"/>
+    </infos>
+Cloud: AWS (EC2, Lambda, Step Functions, ElasticCache(Redis), Cloudwatch(Metrics, Log ingestion, alarms), SNS, SQS, Kafka, IAM, Route53, S3 storage, RDS database, Dynamodb database, API Gateway, VPC, EBS Elastic Beanstalk web deployment, EMR Elastic Map Reduce for big data processing, IoT Core, Greengrass), Predix (Timeseries service), Google    <Text nLength="7" nType="PortionType::Text" nHeight="233" nWidth="788" Portion="Cloud: "/>
+    <Text nLength="75" nType="PortionType::Text" nHeight="233" nWidth="7877" Portion="AWS (EC2, Lambda, Step Functions, ElasticCache(Redis), Cloudwatch(Metrics, "/>
+    <LineBreak nWidth="8665" Line="Cloud: AWS (EC2, Lambda, Step Functions, ElasticCache(Redis), Cloudwatch(Metrics, "/>
+    <Text nLength="81" nType="PortionType::Lay" nHeight="233" nWidth="8325" Portion="Log ingestion, alarms), SNS, SQS, Kafka, IAM, Route53, S3 storage, RDS database, "/>
+    <LineBreak nWidth="8325" Line="Log ingestion, alarms), SNS, SQS, Kafka, IAM, Route53, S3 storage, RDS database, "/>
+    <Text nLength="79" nType="PortionType::Lay" nHeight="233" nWidth="8646" Portion="Dynamodb database, API Gateway, VPC, EBS Elastic Beanstalk web deployment, EMR "/>
+    <LineBreak nWidth="8646" Line="Dynamodb database, API Gateway, VPC, EBS Elastic Beanstalk web deployment, EMR "/>
+    <Text nLength="86" nType="PortionType::Lay" nHeight="233" nWidth="8684" Portion="Elastic Map Reduce for big data processing, IoT Core, Greengrass), Predix (Timeseries "/>
+    <LineBreak nWidth="8684" Line="Elastic Map Reduce for big data processing, IoT Core, Greengrass), Predix (Timeseries "/>
+    <Text nLength="16" nType="PortionType::Lay" nHeight="233" nWidth="1626" Portion="service), Google"/>
+    <LineBreak nWidth="1626" Line="service), Google"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f1eea70" id="20" symbol="11SwTextFrame" next="21" prev="19" upper="2" txtNodeIndex="55" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="10434" width="9026" height="662" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="178" width="9026" height="484"/>
+    </infos>
+Courses: Design and Analysis of algorithm, Computer network, Artificial intelligence, High performance computing, Network security, Design patterns    <Text nLength="9" nType="PortionType::Text" nHeight="233" nWidth="1049" Portion="Courses: "/>
+    <Text nLength="77" nType="PortionType::Text" nHeight="233" nWidth="7600" Portion="Design and Analysis of algorithm, Computer network, Artificial intelligence, "/>
+    <LineBreak nWidth="8649" Line="Courses: Design and Analysis of algorithm, Computer network, Artificial intelligence, "/>
+    <Text nLength="61" nType="PortionType::Lay" nHeight="233" nWidth="6487" Portion="High performance computing, Network security, Design patterns"/>
+    <LineBreak nWidth="6487" Line="High performance computing, Network security, Design patterns"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f1c7b80" id="21" symbol="11SwTextFrame" next="22" prev="20" upper="2" txtNodeIndex="56" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="11096" width="9026" height="434" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="178" width="9026" height="256"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x563c5f063c90" id="91" symbol="19SwFlyInContentFrame" lower="92">
+      <infos>
+       <bounds left="8487" top="11274" width="8790" height="30" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="0" top="0" width="8790" height="30"/>
+      </infos>
+      <notxt ptr="0x563c5f310120" id="92" symbol="13SwNoTextFrame" upper="91">
+       <infos>
+        <bounds left="8487" top="11274" width="8790" height="30" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="8790" height="30"/>
+       </infos>
+      </notxt>
+     </fly>
+    </anchored>
+*    <Special nLength="1" nType="PortionType::FlyCnt" rText="" nHeight="30" nWidth="8790"/>
+    <LineBreak nWidth="8790"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f258610" id="22" symbol="11SwTextFrame" next="111" prev="21" upper="2" txtNodeIndex="57" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="11530" width="9026" height="413" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="233"/>
+    </infos>
+EXPERIENCE    <Text nLength="10" nType="PortionType::Para" nHeight="233" nWidth="1390" Portion="EXPERIENCE"/>
+    <LineBreak nWidth="1390" Line="EXPERIENCE"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c6001f050" id="111" symbol="11SwTextFrame" next="114" prev="22" upper="2" txtNodeIndex="58" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="11943" width="9026" height="434" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="178" width="9026" height="256"/>
+    </infos>
+November 2020 – Present    <Text nLength="8" nType="PortionType::Text" nHeight="256" nWidth="1272" Portion="November"/>
+    <Text nLength="15" nType="PortionType::Text" nHeight="256" nWidth="1913" Portion=" 2020 &#x2013; Present"/>
+    <LineBreak nWidth="3185" Line="November 2020 &#x2013; Present"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5c330390" id="114" symbol="11SwTextFrame" next="115" prev="111" upper="2" txtNodeIndex="59" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="12377" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+IoT Startup (Owner)    <Text nLength="19" nType="PortionType::Para" nHeight="256" nWidth="2181" Portion="IoT Startup (Owner)"/>
+    <LineBreak nWidth="2181" Line="IoT Startup (Owner)"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5c1e8b80" id="115" symbol="11SwTextFrame" next="118" prev="114" upper="2" txtNodeIndex="60" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="12813" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+Responsibilities    <Text nLength="16" nType="PortionType::Para" nHeight="256" nWidth="1965" Portion="Responsibilities"/>
+    <LineBreak nWidth="1965" Line="Responsibilities"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5c1655c0" id="118" symbol="11SwTextFrame" next="125" prev="115" upper="2" txtNodeIndex="61" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="13249" width="9026" height="1816" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="1636"/>
+    </infos>
+Building a product for central monitoring system for customer sites (Energy, Textile, Manufacturing, Fleet, etc). This product will provide client business insights, real-time escalations, forecasting, predictive maintenance, and much more from their high-velocity sensor data, at their fingertips. As an owner, I work on business development, client dealing, feature engineering, design, and team coordination for implementation.    <Text nLength="77" nType="PortionType::Para" nHeight="256" nWidth="8499" Portion="Building a product for central monitoring system for customer sites (Energy, "/>
+    <LineBreak nWidth="8499" Line="Building a product for central monitoring system for customer sites (Energy, "/>
+    <Text nLength="79" nType="PortionType::Lay" nHeight="256" nWidth="8350" Portion="Textile, Manufacturing, Fleet, etc). This product will provide client business "/>
+    <LineBreak nWidth="8350" Line="Textile, Manufacturing, Fleet, etc). This product will provide client business "/>
+    <Text nLength="79" nType="PortionType::Lay" nHeight="256" nWidth="8739" Portion="insights, real-time escalations, forecasting, predictive maintenance, and much "/>
+    <LineBreak nWidth="8739" Line="insights, real-time escalations, forecasting, predictive maintenance, and much "/>
+    <Text nLength="83" nType="PortionType::Text" nHeight="256" nWidth="8965" Portion="more from their high-velocity sensor data, at their fingertips. As an owner, I work"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="8965" Line="more from their high-velocity sensor data, at their fingertips. As an owner, I work "/>
+    <Text nLength="79" nType="PortionType::Lay" nHeight="256" nWidth="8912" Portion="on business development, client dealing, feature engineering, design, and team "/>
+    <LineBreak nWidth="8912" Line="on business development, client dealing, feature engineering, design, and team "/>
+    <Text nLength="32" nType="PortionType::Lay" nHeight="256" nWidth="3634" Portion="coordination for implementation."/>
+    <LineBreak nWidth="3634" Line="coordination for implementation."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5c16ae60" id="125" symbol="11SwTextFrame" prev="118" upper="2" txtNodeIndex="62" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="15065" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x563c5f23a460" id="57" symbol="11SwPageFrame" next="95" prev="1" upper="0" lower="58">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="7047" top="17406" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1440" top="1440" width="9026" height="13958"/>
+  </infos>
+  <body ptr="0x563c5f257730" id="58" symbol="11SwBodyFrame" upper="57" lower="99">
+   <infos>
+    <bounds left="8487" top="18846" width="9026" height="13958" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9026" height="13958"/>
+   </infos>
+   <txt ptr="0x563c609a2110" id="99" symbol="11SwTextFrame" next="101" upper="58" txtNodeIndex="63" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="18846" width="9026" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9026" height="256"/>
+    </infos>
+November 2020 – Present    <Text nLength="8" nType="PortionType::Text" nHeight="256" nWidth="1272" Portion="November"/>
+    <Text nLength="3" nType="PortionType::Text" nHeight="256" nWidth="383" Portion=" 20"/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="256" nWidth="306" Portion="20"/>
+    <Text nLength="10" nType="PortionType::Text" nHeight="256" nWidth="1224" Portion=" &#x2013; Present"/>
+    <LineBreak nWidth="3185" Line="November 2020 &#x2013; Present"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c60260980" id="101" symbol="11SwTextFrame" next="103" prev="99" upper="58" txtNodeIndex="64" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="19102" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+EIX (Enterprise Integration Experts)    <Text nLength="36" nType="PortionType::Para" nHeight="256" nWidth="3917" Portion="EIX (Enterprise Integration Experts)"/>
+    <LineBreak nWidth="3917" Line="EIX (Enterprise Integration Experts)"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c608408a0" id="103" symbol="11SwTextFrame" next="104" prev="101" upper="58" txtNodeIndex="65" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="19538" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+Job Responsibilities    <Text nLength="20" nType="PortionType::Para" nHeight="256" nWidth="2433" Portion="Job Responsibilities"/>
+    <LineBreak nWidth="2433" Line="Job Responsibilities"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c608500f0" id="104" symbol="11SwTextFrame" next="126" prev="103" upper="58" txtNodeIndex="66" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="19974" width="9026" height="2092" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="1912"/>
+    </infos>
+Working as Senior Software Engineer deployed on the product (Tenovos) which is used as a DAM(Digital Asset Management deployed on AWS) by some of the top companies like Amazon Fuse, Amazon Ring, Google Pantry, Netflix, Twitch, Canadian Tire Corporation to name a few. My day-to-day work includes working on new features, research coordinating with the team, providing code knowledge and reviews. Working on an exciting stack of multiple Amazon Services like Aurora, Redshift, Quick Sight, ECS, etc to build a multi-tenant distributed system.    <Text nLength="78" nType="PortionType::Text" nHeight="256" nWidth="9004" Portion="Working as Senior Software Engineer deployed on the product (Tenovos) which is"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="9004" Line="Working as Senior Software Engineer deployed on the product (Tenovos) which is "/>
+    <Text nLength="75" nType="PortionType::Lay" nHeight="256" nWidth="8940" Portion="used as a DAM(Digital Asset Management deployed on AWS) by some of the top "/>
+    <LineBreak nWidth="8940" Line="used as a DAM(Digital Asset Management deployed on AWS) by some of the top "/>
+    <Text nLength="73" nType="PortionType::Lay" nHeight="256" nWidth="8346" Portion="companies like Amazon Fuse, Amazon Ring, Google Pantry, Netflix, Twitch, "/>
+    <LineBreak nWidth="8346" Line="companies like Amazon Fuse, Amazon Ring, Google Pantry, Netflix, Twitch, "/>
+    <Text nLength="77" nType="PortionType::Lay" nHeight="256" nWidth="8869" Portion="Canadian Tire Corporation to name a few. My day-to-day work includes working "/>
+    <LineBreak nWidth="8869" Line="Canadian Tire Corporation to name a few. My day-to-day work includes working "/>
+    <Text nLength="78" nType="PortionType::Text" nHeight="256" nWidth="8986" Portion="on new features, research coordinating with the team, providing code knowledge"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="8986" Line="on new features, research coordinating with the team, providing code knowledge "/>
+    <Text nLength="75" nType="PortionType::Lay" nHeight="256" nWidth="8402" Portion="and reviews. Working on an exciting stack of multiple Amazon Services like "/>
+    <LineBreak nWidth="8402" Line="and reviews. Working on an exciting stack of multiple Amazon Services like "/>
+    <Text nLength="83" nType="PortionType::Lay" nHeight="256" nWidth="8981" Portion="Aurora, Redshift, Quick Sight, ECS, etc to build a multi-tenant distributed system."/>
+    <LineBreak nWidth="8981" Line="Aurora, Redshift, Quick Sight, ECS, etc to build a multi-tenant distributed system."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5c1d9e70" id="126" symbol="11SwTextFrame" next="23" prev="104" upper="58" txtNodeIndex="67" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="22066" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f2227e0" id="23" symbol="11SwTextFrame" next="24" prev="126" upper="58" txtNodeIndex="68" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="22502" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+October 2019 – October 2020    <Text nLength="15" nType="PortionType::Text" nHeight="256" nWidth="1941" Portion="October 2019 &#x2013; "/>
+    <Text nLength="12" nType="PortionType::Text" nHeight="256" nWidth="1678" Portion="October 2020"/>
+    <LineBreak nWidth="3619" Line="October 2019 &#x2013; October 2020"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f22ce60" id="24" symbol="11SwTextFrame" next="25" prev="23" upper="58" txtNodeIndex="69" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="22938" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+REON Energies (Dawood Hercules Group), Software Technical Lead    <Text nLength="62" nType="PortionType::Para" nHeight="256" nWidth="7406" Portion="REON Energies (Dawood Hercules Group), Software Technical Lead"/>
+    <LineBreak nWidth="7406" Line="REON Energies (Dawood Hercules Group), Software Technical Lead"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f239730" id="25" symbol="11SwTextFrame" next="26" prev="24" upper="58" txtNodeIndex="70" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="23374" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+Job Responsibilities    <Text nLength="20" nType="PortionType::Para" nHeight="256" nWidth="2433" Portion="Job Responsibilities"/>
+    <LineBreak nWidth="2433" Line="Job Responsibilities"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f235f80" id="26" symbol="11SwTextFrame" next="27" prev="25" upper="58" txtNodeIndex="71" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="23810" width="9026" height="664" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="484"/>
+    </infos>
+As a technical lead working on project named SPARK dealing with two different sectors mentioned as    <Text nLength="86" nType="PortionType::Para" nHeight="233" nWidth="8783" Portion="As a technical lead working on project named SPARK dealing with two different sectors "/>
+    <LineBreak nWidth="8783" Line="As a technical lead working on project named SPARK dealing with two different sectors "/>
+    <Text nLength="12" nType="PortionType::Lay" nHeight="233" nWidth="1368" Portion="mentioned as"/>
+    <LineBreak nWidth="1368" Line="mentioned as"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f226030" id="27" symbol="11SwTextFrame" next="28" prev="26" upper="58" txtNodeIndex="72" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="24474" width="9026" height="434" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="178" width="8666" height="256"/>
+    </infos>
+CNI (Commercial and Industrial)    <Special nLength="0" nType="PortionType::Bullet" rText="&#xF0B7;" nHeight="220">
+     <SwFont ptr="0x563c5c1c82c0" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="200" nWidth="269"/>
+    <Text nLength="31" nType="PortionType::Text" nHeight="256" nWidth="3532" Portion="CNI (Commercial and Industrial)"/>
+    <LineBreak nWidth="3892" Line="&#xF0B7;CNI (Commercial and Industrial)"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f23cba0" id="28" symbol="11SwTextFrame" next="29" prev="27" upper="58" txtNodeIndex="73" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="24908" width="9026" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="20" width="8666" height="256"/>
+    </infos>
+Telco (Telecommunication)    <Special nLength="0" nType="PortionType::Bullet" rText="&#xF0B7;" nHeight="220">
+     <SwFont ptr="0x563c6097e9c0" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="200" nWidth="269"/>
+    <Text nLength="25" nType="PortionType::Text" nHeight="256" nWidth="2996" Portion="Telco (Telecommunication)"/>
+    <LineBreak nWidth="3356" Line="&#xF0B7;Telco (Telecommunication)"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f25fa30" id="29" symbol="11SwTextFrame" next="30" prev="28" upper="58" txtNodeIndex="74" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="25184" width="9026" height="1264" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="1084"/>
+    </infos>
+CNI are solar fields consisting of different components and sensory data (Inverter, Solar Panel etc), my is in of Data Engineer, setting up infrastructure pipeline hosted on AWS. Providing detail analytics and business insights to customer for their solar fields such as     <Text nLength="73" nType="PortionType::Para" nHeight="256" nWidth="8032" Portion="CNI are solar fields consisting of different components and sensory data "/>
+    <LineBreak nWidth="8032" Line="CNI are solar fields consisting of different components and sensory data "/>
+    <Text nLength="82" nType="PortionType::Lay" nHeight="256" nWidth="8659" Portion="(Inverter, Solar Panel etc), my is in of Data Engineer, setting up infrastructure "/>
+    <LineBreak nWidth="8659" Line="(Inverter, Solar Panel etc), my is in of Data Engineer, setting up infrastructure "/>
+    <Text nLength="76" nType="PortionType::Lay" nHeight="256" nWidth="8327" Portion="pipeline hosted on AWS. Providing detail analytics and business insights to "/>
+    <LineBreak nWidth="8327" Line="pipeline hosted on AWS. Providing detail analytics and business insights to "/>
+    <Text nLength="40" nType="PortionType::Lay" nHeight="256" nWidth="4231" Portion="customer for their solar fields such as "/>
+    <LineBreak nWidth="4231" Line="customer for their solar fields such as "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f222ca0" id="30" symbol="11SwTextFrame" next="31" prev="29" upper="58" txtNodeIndex="75" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="26448" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="180" width="8666" height="256"/>
+    </infos>
+Production    <Special nLength="0" nType="PortionType::Bullet" rText="&#xF0B7;" nHeight="220">
+     <SwFont ptr="0x563c5f319aa0" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="200" nWidth="269"/>
+    <Text nLength="10" nType="PortionType::Text" nHeight="256" nWidth="1180" Portion="Production"/>
+    <LineBreak nWidth="1540" Line="&#xF0B7;Production"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f0589f0" id="31" symbol="11SwTextFrame" next="32" prev="30" upper="58" txtNodeIndex="76" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="26884" width="9026" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="20" width="8666" height="256"/>
+    </infos>
+Rate of decay for electronic component    <Special nLength="0" nType="PortionType::Bullet" rText="&#xF0B7;" nHeight="220">
+     <SwFont ptr="0x563c5c3cfd00" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="200" nWidth="269"/>
+    <Text nLength="38" nType="PortionType::Text" nHeight="256" nWidth="4366" Portion="Rate of decay for electronic component"/>
+    <LineBreak nWidth="4726" Line="&#xF0B7;Rate of decay for electronic component"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f0a6a30" id="32" symbol="11SwTextFrame" next="33" prev="31" upper="58" txtNodeIndex="77" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="27160" width="9026" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="20" width="8666" height="256"/>
+    </infos>
+Forecasting    <Special nLength="0" nType="PortionType::Bullet" rText="&#xF0B7;" nHeight="220">
+     <SwFont ptr="0x563c5c17a130" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="200" nWidth="269"/>
+    <Text nLength="11" nType="PortionType::Text" nHeight="256" nWidth="1284" Portion="Forecasting"/>
+    <LineBreak nWidth="1644" Line="&#xF0B7;Forecasting"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f0e3f60" id="33" symbol="11SwTextFrame" next="34" prev="32" upper="58" txtNodeIndex="78" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="27436" width="9026" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="20" width="8666" height="256"/>
+    </infos>
+Cost saved etc    <Special nLength="0" nType="PortionType::Bullet" rText="&#xF0B7;" nHeight="220">
+     <SwFont ptr="0x563c60985c10" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="200" nWidth="269"/>
+    <Text nLength="14" nType="PortionType::Text" nHeight="256" nWidth="1627" Portion="Cost saved etc"/>
+    <LineBreak nWidth="1987" Line="&#xF0B7;Cost saved etc"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f1f4ed0" id="34" symbol="11SwTextFrame" next="35" prev="33" upper="58" txtNodeIndex="79" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="27712" width="9026" height="1264" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="1084"/>
+    </infos>
+Telco on the other hand is more versatile in terms of use cases, these are small sites across Pakistan and monitored by different teams of Enfrashare (Sub group of Engro). Data is being transmitted by edge to our Serverless Infrastructure. All this data is being processed and provided with detail reports to customer:    <Text nLength="81" nType="PortionType::Para" nHeight="256" nWidth="8874" Portion="Telco on the other hand is more versatile in terms of use cases, these are small "/>
+    <LineBreak nWidth="8874" Line="Telco on the other hand is more versatile in terms of use cases, these are small "/>
+    <Text nLength="80" nType="PortionType::Lay" nHeight="256" nWidth="8996" Portion="sites across Pakistan and monitored by different teams of Enfrashare (Sub group "/>
+    <LineBreak nWidth="8996" Line="sites across Pakistan and monitored by different teams of Enfrashare (Sub group "/>
+    <Text nLength="83" nType="PortionType::Lay" nHeight="256" nWidth="8933" Portion="of Engro). Data is being transmitted by edge to our Serverless Infrastructure. All "/>
+    <LineBreak nWidth="8933" Line="of Engro). Data is being transmitted by edge to our Serverless Infrastructure. All "/>
+    <Text nLength="74" nType="PortionType::Lay" nHeight="256" nWidth="8178" Portion="this data is being processed and provided with detail reports to customer:"/>
+    <LineBreak nWidth="8178" Line="this data is being processed and provided with detail reports to customer:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f157cd0" id="35" symbol="11SwTextFrame" next="36" prev="34" upper="58" txtNodeIndex="80" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="28976" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="180" width="8666" height="256"/>
+    </infos>
+Fuel Theft from Generator    <Special nLength="0" nType="PortionType::Bullet" rText="&#xF0B7;" nHeight="220">
+     <SwFont ptr="0x563c60bf0800" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="200" nWidth="269"/>
+    <Text nLength="25" nType="PortionType::Text" nHeight="256" nWidth="2880" Portion="Fuel Theft from Generator"/>
+    <LineBreak nWidth="3240" Line="&#xF0B7;Fuel Theft from Generator"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f2159d0" id="36" symbol="11SwTextFrame" next="37" prev="35" upper="58" txtNodeIndex="81" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="29412" width="9026" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="20" width="8666" height="256"/>
+    </infos>
+Battery decay and predicted load outages    <Special nLength="0" nType="PortionType::Bullet" rText="&#xF0B7;" nHeight="220">
+     <SwFont ptr="0x563c5f3942b0" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="200" nWidth="269"/>
+    <Text nLength="40" nType="PortionType::Text" nHeight="256" nWidth="4644" Portion="Battery decay and predicted load outages"/>
+    <LineBreak nWidth="5004" Line="&#xF0B7;Battery decay and predicted load outages"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f244200" id="37" symbol="11SwTextFrame" next="38" prev="36" upper="58" txtNodeIndex="82" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="29688" width="9026" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="20" width="8666" height="256"/>
+    </infos>
+Anomaly detection    <Special nLength="0" nType="PortionType::Bullet" rText="&#xF0B7;" nHeight="220">
+     <SwFont ptr="0x563c5f3a9880" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="200" nWidth="269"/>
+    <Text nLength="17" nType="PortionType::Text" nHeight="256" nWidth="2075" Portion="Anomaly detection"/>
+    <LineBreak nWidth="2435" Line="&#xF0B7;Anomaly detection"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f08a770" id="38" symbol="11SwTextFrame" next="39" prev="37" upper="58" txtNodeIndex="83" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="29964" width="9026" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="20" width="8666" height="256"/>
+    </infos>
+Alarms    <Special nLength="0" nType="PortionType::Bullet" rText="&#xF0B7;" nHeight="220">
+     <SwFont ptr="0x563c60a44460" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="200" nWidth="269"/>
+    <Text nLength="6" nType="PortionType::Text" nHeight="256" nWidth="766" Portion="Alarms"/>
+    <LineBreak nWidth="1126" Line="&#xF0B7;Alarms"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f089700" id="39" symbol="11SwTextFrame" next="40" prev="38" upper="58" txtNodeIndex="84" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="30240" width="9026" height="1264" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="1084"/>
+    </infos>
+Both CNI and Telco have same pipeline with different use cases, the data is ingested to ElasticSearch, which is used as main data store for derived and real time reports, running ML models, Health Indexing etc. ElasticCache is used to serve heavy traffic, serving real time parameters, alarms(events) etc.    <Text nLength="76" nType="PortionType::Para" nHeight="256" nWidth="8406" Portion="Both CNI and Telco have same pipeline with different use cases, the data is "/>
+    <LineBreak nWidth="8406" Line="Both CNI and Telco have same pipeline with different use cases, the data is "/>
+    <Text nLength="81" nType="PortionType::Lay" nHeight="256" nWidth="8875" Portion="ingested to ElasticSearch, which is used as main data store for derived and real "/>
+    <LineBreak nWidth="8875" Line="ingested to ElasticSearch, which is used as main data store for derived and real "/>
+    <Text nLength="78" nType="PortionType::Lay" nHeight="256" nWidth="8644" Portion="time reports, running ML models, Health Indexing etc. ElasticCache is used to "/>
+    <LineBreak nWidth="8644" Line="time reports, running ML models, Health Indexing etc. ElasticCache is used to "/>
+    <Text nLength="70" nType="PortionType::Lay" nHeight="256" nWidth="7704" Portion="serve heavy traffic, serving real time parameters, alarms(events) etc."/>
+    <LineBreak nWidth="7704" Line="serve heavy traffic, serving real time parameters, alarms(events) etc."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f06b050" id="40" symbol="11SwTextFrame" next="121" prev="39" upper="58" txtNodeIndex="85" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="31504" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c60834a00" id="121" symbol="11SwTextFrame" prev="40" upper="58" txtNodeIndex="86" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="31940" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x563c6094d920" id="95" symbol="11SwPageFrame" next="107" prev="57" upper="0" lower="96">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="7047" top="34528" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1440" top="1440" width="9026" height="13958"/>
+  </infos>
+  <body ptr="0x563c60307ff0" id="96" symbol="11SwBodyFrame" upper="95" lower="41">
+   <infos>
+    <bounds left="8487" top="35968" width="9026" height="13958" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9026" height="13958"/>
+   </infos>
+   <txt ptr="0x563c5f087950" id="41" symbol="11SwTextFrame" next="42" upper="96" txtNodeIndex="87" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="35968" width="9026" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9026" height="256"/>
+    </infos>
+October 2018 – October 2019    <Text nLength="27" nType="PortionType::Para" nHeight="256" nWidth="3618" Portion="October 2018 &#x2013; October 2019"/>
+    <LineBreak nWidth="3618" Line="October 2018 &#x2013; October 2019"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f1c2850" id="42" symbol="11SwTextFrame" next="43" prev="41" upper="96" txtNodeIndex="88" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="36224" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+Zaavya, Sr. Software Engineer    <Text nLength="29" nType="PortionType::Para" nHeight="256" nWidth="3355" Portion="Zaavya, Sr. Software Engineer"/>
+    <LineBreak nWidth="3355" Line="Zaavya, Sr. Software Engineer"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f227690" id="43" symbol="11SwTextFrame" next="44" prev="42" upper="96" txtNodeIndex="89" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="36660" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+Job Responsibilities    <Text nLength="20" nType="PortionType::Para" nHeight="256" nWidth="2433" Portion="Job Responsibilities"/>
+    <LineBreak nWidth="2433" Line="Job Responsibilities"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f252d10" id="44" symbol="11SwTextFrame" next="45" prev="43" upper="96" txtNodeIndex="90" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="37096" width="9026" height="664" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="484"/>
+    </infos>
+Working on a project of MDM (Master Data Management) for USA based client. My responsibilities include    <Text nLength="78" nType="PortionType::Para" nHeight="233" nWidth="8305" Portion="Working on a project of MDM (Master Data Management) for USA based client. My "/>
+    <LineBreak nWidth="8305" Line="Working on a project of MDM (Master Data Management) for USA based client. My "/>
+    <Text nLength="24" nType="PortionType::Lay" nHeight="233" nWidth="2288" Portion="responsibilities include"/>
+    <LineBreak nWidth="2288" Line="responsibilities include"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f24f9f0" id="45" symbol="11SwTextFrame" next="46" prev="44" upper="96" txtNodeIndex="91" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="37760" width="9026" height="1666" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="178" width="9026" height="1488"/>
+    </infos>
+Provide team with knowledge of advance cloud computing for big data processing, architecture designing, serverless design pattern for consuming, transforming and run data analytics to gain meaning full insights of data. As a start-up working on different technologies provide me with diversity of knowledge particularly for cloud. Other responsibilities include set-up ingestion process for graph databases, retry mechanism for Pub—Sub failure, logging, etc.    <Text nLength="80" nType="PortionType::Para" nHeight="233" nWidth="8372" Portion="Provide team with knowledge of advance cloud computing for big data processing, "/>
+    <LineBreak nWidth="8372" Line="Provide team with knowledge of advance cloud computing for big data processing, "/>
+    <Text nLength="86" nType="PortionType::Lay" nHeight="233" nWidth="8750" Portion="architecture designing, serverless design pattern for consuming, transforming and run "/>
+    <LineBreak nWidth="8750" Line="architecture designing, serverless design pattern for consuming, transforming and run "/>
+    <Text nLength="89" nType="PortionType::Lay" nHeight="233" nWidth="8651" Portion="data analytics to gain meaning full insights of data. As a start-up working on different "/>
+    <LineBreak nWidth="8651" Line="data analytics to gain meaning full insights of data. As a start-up working on different "/>
+    <Text nLength="82" nType="PortionType::Lay" nHeight="233" nWidth="8195" Portion="technologies provide me with diversity of knowledge particularly for cloud. Other "/>
+    <LineBreak nWidth="8195" Line="technologies provide me with diversity of knowledge particularly for cloud. Other "/>
+    <Text nLength="87" nType="PortionType::Lay" nHeight="233" nWidth="8782" Portion="responsibilities include set-up ingestion process for graph databases, retry mechanism "/>
+    <LineBreak nWidth="8782" Line="responsibilities include set-up ingestion process for graph databases, retry mechanism "/>
+    <Text nLength="34" nType="PortionType::Lay" nHeight="233" nWidth="3363" Portion="for Pub&#x2014;Sub failure, logging, etc."/>
+    <LineBreak nWidth="3363" Line="for Pub&#x2014;Sub failure, logging, etc."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f2132d0" id="46" symbol="11SwTextFrame" next="47" prev="45" upper="96" txtNodeIndex="92" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="39426" width="9026" height="411" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="178" width="9026" height="233"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f24f340" id="47" symbol="11SwTextFrame" next="48" prev="46" upper="96" txtNodeIndex="93" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="39837" width="9026" height="434" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="178" width="9026" height="256"/>
+    </infos>
+March 2017 – October 2018    <Text nLength="25" nType="PortionType::Para" nHeight="256" nWidth="3393" Portion="March 2017 &#x2013; October 2018"/>
+    <LineBreak nWidth="3393" Line="March 2017 &#x2013; October 2018"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f2519f0" id="48" symbol="11SwTextFrame" next="49" prev="47" upper="96" txtNodeIndex="94" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="40271" width="9026" height="413" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="233"/>
+    </infos>
+Inbox Technologies, Trainee Technical Consultant    <Text nLength="48" nType="PortionType::Para" nHeight="233" nWidth="4979" Portion="Inbox Technologies, Trainee Technical Consultant"/>
+    <LineBreak nWidth="4979" Line="Inbox Technologies, Trainee Technical Consultant"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f24d750" id="49" symbol="11SwTextFrame" next="50" prev="48" upper="96" txtNodeIndex="95" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="40684" width="9026" height="434" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="178" width="9026" height="256"/>
+    </infos>
+Job Responsibilities    <Text nLength="20" nType="PortionType::Para" nHeight="256" nWidth="2433" Portion="Job Responsibilities"/>
+    <LineBreak nWidth="2433" Line="Job Responsibilities"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f20f300" id="50" symbol="11SwTextFrame" next="51" prev="49" upper="96" txtNodeIndex="96" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="41118" width="9026" height="804" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="180" width="8666" height="624"/>
+    </infos>
+Work in department of DIH (Digital Intelligence Hub) creating smart product using AI, Machine and Deep Learning.    <Special nLength="0" nType="PortionType::Bullet" rText="-" nHeight="320">
+     <SwFont ptr="0x563c608e3fb0" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="373" nWidth="227"/>
+    <Text nLength="82" nType="PortionType::Text" nHeight="233" nWidth="8296" Portion="Work in department of DIH (Digital Intelligence Hub) creating smart product using "/>
+    <LineBreak nWidth="8656" Line="-Work in department of DIH (Digital Intelligence Hub) creating smart product using "/>
+    <Text nLength="30" nType="PortionType::Lay" nHeight="233" nWidth="3193" Portion="AI, Machine and Deep Learning."/>
+    <LineBreak nWidth="3193" Line="AI, Machine and Deep Learning."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f2571e0" id="51" symbol="11SwTextFrame" next="52" prev="50" upper="96" txtNodeIndex="97" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="41922" width="9026" height="893" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="18" width="8666" height="875"/>
+    </infos>
+Applying latest technologies in field of data engineering retrieving, transforming, cleaning and providing deep insights of complex data using stack provided by Cloudera.     <Special nLength="0" nType="PortionType::Bullet" rText="-" nHeight="320">
+     <SwFont ptr="0x563c60af7e80" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="373" nWidth="227"/>
+    <Text nLength="84" nType="PortionType::Text" nHeight="233" nWidth="8192" Portion="Applying latest technologies in field of data engineering retrieving, transforming, "/>
+    <LineBreak nWidth="8552" Line="-Applying latest technologies in field of data engineering retrieving, transforming, "/>
+    <Text nLength="77" nType="PortionType::Lay" nHeight="233" nWidth="7899" Portion="cleaning and providing deep insights of complex data using stack provided by "/>
+    <LineBreak nWidth="7899" Line="cleaning and providing deep insights of complex data using stack provided by "/>
+    <Text nLength="10" nType="PortionType::Lay" nHeight="233" nWidth="1026" Portion="Cloudera. "/>
+    <LineBreak nWidth="1026" Line="Cloudera. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f06d0e0" id="52" symbol="11SwTextFrame" next="53" prev="51" upper="96" txtNodeIndex="98" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="42815" width="9026" height="893" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="18" width="8666" height="875"/>
+    </infos>
+Worked on facial recognition an in-house build for getting stream from NVR (Network Video Recorder) and training a model for recognition and detection, for attendance management and count.    <Special nLength="0" nType="PortionType::Bullet" rText="-" nHeight="320">
+     <SwFont ptr="0x563c60936d20" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="373" nWidth="227"/>
+    <Text nLength="75" nType="PortionType::Text" nHeight="233" nWidth="7636" Portion="Worked on facial recognition an in-house build for getting stream from NVR "/>
+    <LineBreak nWidth="7996" Line="-Worked on facial recognition an in-house build for getting stream from NVR "/>
+    <Text nLength="81" nType="PortionType::Lay" nHeight="233" nWidth="8187" Portion="(Network Video Recorder) and training a model for recognition and detection, for "/>
+    <LineBreak nWidth="8187" Line="(Network Video Recorder) and training a model for recognition and detection, for "/>
+    <Text nLength="32" nType="PortionType::Lay" nHeight="233" nWidth="3673" Portion="attendance management and count."/>
+    <LineBreak nWidth="3673" Line="attendance management and count."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f0fe590" id="53" symbol="11SwTextFrame" next="54" prev="52" upper="96" txtNodeIndex="99" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="43708" width="9026" height="893" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="18" width="8666" height="875"/>
+    </infos>
+Extensive work on AWS cloud services, familiarity with cloud infrastructure, provide me an edge to build, prototype and deploy different architecture with diverse technological stack.    <Special nLength="0" nType="PortionType::Bullet" rText="-" nHeight="320">
+     <SwFont ptr="0x563c60b6b7b0" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="373" nWidth="227"/>
+    <Text nLength="77" nType="PortionType::Text" nHeight="233" nWidth="7639" Portion="Extensive work on AWS cloud services, familiarity with cloud infrastructure, "/>
+    <LineBreak nWidth="7999" Line="-Extensive work on AWS cloud services, familiarity with cloud infrastructure, "/>
+    <Text nLength="78" nType="PortionType::Lay" nHeight="233" nWidth="7867" Portion="provide me an edge to build, prototype and deploy different architecture with "/>
+    <LineBreak nWidth="7867" Line="provide me an edge to build, prototype and deploy different architecture with "/>
+    <Text nLength="28" nType="PortionType::Lay" nHeight="233" nWidth="2791" Portion="diverse technological stack."/>
+    <LineBreak nWidth="2791" Line="diverse technological stack."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f088240" id="54" symbol="11SwTextFrame" next="55" prev="53" upper="96" txtNodeIndex="100" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="44601" width="9026" height="893" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="18" width="8666" height="875"/>
+    </infos>
+As a team lead I am having people across cities managing, reporting, distribution of work load and keeping team trained with latest technological trends is one of my core skills.    <Special nLength="0" nType="PortionType::Bullet" rText="-" nHeight="320">
+     <SwFont ptr="0x563c5c1c1030" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="373" nWidth="227"/>
+    <Text nLength="82" nType="PortionType::Text" nHeight="233" nWidth="8233" Portion="As a team lead I am having people across cities managing, reporting, distribution "/>
+    <LineBreak nWidth="8593" Line="-As a team lead I am having people across cities managing, reporting, distribution "/>
+    <Text nLength="81" nType="PortionType::Lay" nHeight="233" nWidth="8090" Portion="of work load and keeping team trained with latest technological trends is one of "/>
+    <LineBreak nWidth="8090" Line="of work load and keeping team trained with latest technological trends is one of "/>
+    <Text nLength="15" nType="PortionType::Lay" nHeight="233" nWidth="1432" Portion="my core skills."/>
+    <LineBreak nWidth="1432" Line="my core skills."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f0ddc20" id="55" symbol="11SwTextFrame" next="56" prev="54" upper="96" txtNodeIndex="101" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="45494" width="9026" height="434" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="178" width="9026" height="256"/>
+    </infos>
+Projects    <Text nLength="8" nType="PortionType::Para" nHeight="256" nWidth="1012" Portion="Projects"/>
+    <LineBreak nWidth="1012" Line="Projects"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f0c15b0" id="56" symbol="11SwTextFrame" next="59" prev="55" upper="96" txtNodeIndex="102" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="45928" width="9026" height="1306" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="406" top="180" width="8620" height="1126"/>
+    </infos>
+Worked with Engro Polymer manufacturing for HCL column recommendations. Getting more than two hundred variables, pushing it to predix cloud, applying cleaning for data sparsity and transformation and finally utilizing it to train a model.    <Special nLength="0" nType="PortionType::Bullet" rText="-" nHeight="320">
+     <SwFont ptr="0x563c5c3ebcb0" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="373" nWidth="227"/>
+    <Text nLength="72" nType="PortionType::Text" nHeight="233" nWidth="7926" Portion="Worked with Engro Polymer manufacturing for HCL column recommendations. "/>
+    <LineBreak nWidth="8286" Line="-Worked with Engro Polymer manufacturing for HCL column recommendations. "/>
+    <Text nLength="78" nType="PortionType::Lay" nHeight="233" nWidth="7888" Portion="Getting more than two hundred variables, pushing it to predix cloud, applying "/>
+    <LineBreak nWidth="7888" Line="Getting more than two hundred variables, pushing it to predix cloud, applying "/>
+    <Text nLength="82" nType="PortionType::Lay" nHeight="233" nWidth="7746" Portion="cleaning for data sparsity and transformation and finally utilizing it to train a "/>
+    <LineBreak nWidth="7746" Line="cleaning for data sparsity and transformation and finally utilizing it to train a "/>
+    <Text nLength="6" nType="PortionType::Lay" nHeight="233" nWidth="686" Portion="model."/>
+    <LineBreak nWidth="686" Line="model."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f180eb0" id="59" symbol="11SwTextFrame" next="127" prev="56" upper="96" txtNodeIndex="103" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="47234" width="9026" height="1144" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="406" top="18" width="8620" height="1126"/>
+    </infos>
+Working with REON Solar Energy providers for providing them real data analytics. Getting data for inverter, grid, generator and weather, pushing it to predix cloud time-series. Finally, will be applying machine learning for cost optimization on solar panel maintenance based on temperature, dust and solar output.    <Special nLength="0" nType="PortionType::Bullet" rText="-" nHeight="320">
+     <SwFont ptr="0x563c60b43800" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="373" nWidth="227"/>
+    <Text nLength="80" nType="PortionType::Text" nHeight="233" nWidth="8208" Portion="Working with REON Solar Energy providers for providing them real data analytics."/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="8568" Line="-Working with REON Solar Energy providers for providing them real data analytics. "/>
+    <Text nLength="83" nType="PortionType::Lay" nHeight="233" nWidth="8154" Portion="Getting data for inverter, grid, generator and weather, pushing it to predix cloud "/>
+    <LineBreak nWidth="8154" Line="Getting data for inverter, grid, generator and weather, pushing it to predix cloud "/>
+    <Text nLength="81" nType="PortionType::Lay" nHeight="233" nWidth="7893" Portion="time-series. Finally, will be applying machine learning for cost optimization on "/>
+    <LineBreak nWidth="7893" Line="time-series. Finally, will be applying machine learning for cost optimization on "/>
+    <Text nLength="68" nType="PortionType::Lay" nHeight="233" nWidth="7124" Portion="solar panel maintenance based on temperature, dust and solar output."/>
+    <LineBreak nWidth="7124" Line="solar panel maintenance based on temperature, dust and solar output."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5c1fd750" id="127" symbol="11SwTextFrame" next="128" prev="59" upper="96" txtNodeIndex="104" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="48378" width="9026" height="411" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="178" width="9026" height="233"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5c2b6860" id="128" symbol="11SwTextFrame" next="60" prev="127" upper="96" txtNodeIndex="105" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="48789" width="9026" height="411" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="178" width="9026" height="233"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f24ee80" id="60" symbol="11SwTextFrame" prev="128" upper="96" txtNodeIndex="106" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="49200" width="9026" height="411" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="178" width="9026" height="233"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x563c6083e2e0" id="107" symbol="11SwPageFrame" prev="95" upper="0" lower="108">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="7047" top="51650" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1440" top="1440" width="9026" height="13958"/>
+  </infos>
+  <body ptr="0x563c6084ef10" id="108" symbol="11SwBodyFrame" upper="107" lower="61">
+   <infos>
+    <bounds left="8487" top="53090" width="9026" height="13958" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9026" height="13958"/>
+   </infos>
+   <txt ptr="0x563c5f2451e0" id="61" symbol="11SwTextFrame" next="62" upper="108" txtNodeIndex="107" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="53090" width="9026" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9026" height="256"/>
+    </infos>
+February 2016 – February 2017    <Text nLength="29" nType="PortionType::Para" nHeight="256" nWidth="3886" Portion="February 2016 &#x2013; February 2017"/>
+    <LineBreak nWidth="3886" Line="February 2016 &#x2013; February 2017"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f231d60" id="62" symbol="11SwTextFrame" next="63" prev="61" upper="108" txtNodeIndex="108" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="53346" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+10Pearls Pvt. Ltd., Game Developer    <Text nLength="34" nType="PortionType::Para" nHeight="256" nWidth="3923" Portion="10Pearls Pvt. Ltd., Game Developer"/>
+    <LineBreak nWidth="3923" Line="10Pearls Pvt. Ltd., Game Developer"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f257bf0" id="63" symbol="11SwTextFrame" next="64" prev="62" upper="108" txtNodeIndex="109" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="53782" width="9026" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="256"/>
+    </infos>
+Job Responsibilities    <Text nLength="20" nType="PortionType::Para" nHeight="256" nWidth="2433" Portion="Job Responsibilities"/>
+    <LineBreak nWidth="2433" Line="Job Responsibilities"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f1a7e00" id="64" symbol="11SwTextFrame" next="65" prev="63" upper="108" txtNodeIndex="110" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="54218" width="9026" height="804" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="180" width="8666" height="624"/>
+    </infos>
+Develop and design games both 3d and 2d on unity3d cross platform iOS and Android.    <Special nLength="0" nType="PortionType::Bullet" rText="-" nHeight="320">
+     <SwFont ptr="0x563c5c267af0" color="00000000"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="373" nWidth="227"/>
+    <Text nLength="74" nType="PortionType::Text" nHeight="233" nWidth="7865" Portion="Develop and design games both 3d and 2d on unity3d cross platform iOS and "/>
+    <LineBreak nWidth="8225" Line="-Develop and design games both 3d and 2d on unity3d cross platform iOS and "/>
+    <Text nLength="8" nType="PortionType::Lay" nHeight="233" nWidth="841" Portion="Android."/>
+    <LineBreak nWidth="841" Line="Android."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f212210" id="65" symbol="11SwTextFrame" next="66" prev="64" upper="108" txtNodeIndex="111" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="55022" width="9026" height="391" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="18" width="8666" height="373"/>
+    </infos>
+Responsible for writing backend logic for games mostly 2d.    <Special nLength="0" nType="PortionType::Bullet" rText="-" nHeight="320">
+     <SwFont ptr="0x563c6083e000" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="373" nWidth="227"/>
+    <Text nLength="58" nType="PortionType::Text" nHeight="233" nWidth="5940" Portion="Responsible for writing backend logic for games mostly 2d."/>
+    <LineBreak nWidth="6300" Line="-Responsible for writing backend logic for games mostly 2d."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f213a20" id="66" symbol="11SwTextFrame" next="67" prev="65" upper="108" txtNodeIndex="112" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="55413" width="9026" height="445" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="189" width="9026" height="256"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x563c5f2a0950" id="97" symbol="19SwFlyInContentFrame" lower="98">
+      <infos>
+       <bounds left="8487" top="55602" width="8790" height="30" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="0" top="0" width="8790" height="30"/>
+      </infos>
+      <notxt ptr="0x563c602ff6d0" id="98" symbol="13SwNoTextFrame" upper="97">
+       <infos>
+        <bounds left="8487" top="55602" width="8790" height="30" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="8790" height="30"/>
+       </infos>
+      </notxt>
+     </fly>
+    </anchored>
+*    <Special nLength="1" nType="PortionType::FlyCnt" rText="" nHeight="30" nWidth="8790"/>
+    <LineBreak nWidth="8790"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f22e2d0" id="67" symbol="11SwTextFrame" next="68" prev="66" upper="108" txtNodeIndex="113" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="55858" width="9026" height="413" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="233"/>
+    </infos>
+RESEARCH INTEREST    <Text nLength="17" nType="PortionType::Para" nHeight="233" nWidth="2350" Portion="RESEARCH INTEREST"/>
+    <LineBreak nWidth="2350" Line="RESEARCH INTEREST"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f22a490" id="68" symbol="11SwTextFrame" next="69" prev="67" upper="108" txtNodeIndex="114" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="56271" width="9026" height="802" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="178" width="8666" height="624"/>
+    </infos>
+Eager to work on latest technologies based on machine and deep learning with endless implications on churn detection, predictive analysis and computer vision.    <Special nLength="0" nType="PortionType::Bullet" rText="-" nHeight="320">
+     <SwFont ptr="0x563c609f6b70" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="373" nWidth="227"/>
+    <Text nLength="77" nType="PortionType::Text" nHeight="233" nWidth="8010" Portion="Eager to work on latest technologies based on machine and deep learning with "/>
+    <LineBreak nWidth="8370" Line="-Eager to work on latest technologies based on machine and deep learning with "/>
+    <Text nLength="81" nType="PortionType::Lay" nHeight="233" nWidth="8170" Portion="endless implications on churn detection, predictive analysis and computer vision."/>
+    <LineBreak nWidth="8170" Line="endless implications on churn detection, predictive analysis and computer vision."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f221230" id="69" symbol="11SwTextFrame" next="70" prev="68" upper="108" txtNodeIndex="115" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="57073" width="9026" height="642" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="18" width="8666" height="624"/>
+    </infos>
+Opportunities to work on GPUs clusters for high performance computing, developing robust algorithms.    <Special nLength="0" nType="PortionType::Bullet" rText="-" nHeight="320">
+     <SwFont ptr="0x563c5f313b80" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="373" nWidth="227"/>
+    <Text nLength="71" nType="PortionType::Text" nHeight="233" nWidth="7372" Portion="Opportunities to work on GPUs clusters for high performance computing, "/>
+    <LineBreak nWidth="7732" Line="-Opportunities to work on GPUs clusters for high performance computing, "/>
+    <Text nLength="29" nType="PortionType::Lay" nHeight="233" nWidth="3006" Portion="developing robust algorithms."/>
+    <LineBreak nWidth="3006" Line="developing robust algorithms."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f221c70" id="70" symbol="11SwTextFrame" next="71" prev="69" upper="108" txtNodeIndex="116" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="57715" width="9026" height="893" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="18" width="8666" height="875"/>
+    </infos>
+Work in field of artificial intelligence focusing industries like manufacturing, health, internet of things, energy sectors to help develop smart system that optimize cost and maintenance.    <Special nLength="0" nType="PortionType::Bullet" rText="-" nHeight="320">
+     <SwFont ptr="0x563c60aa2d10" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="373" nWidth="227"/>
+    <Text nLength="81" nType="PortionType::Text" nHeight="233" nWidth="7639" Portion="Work in field of artificial intelligence focusing industries like manufacturing, "/>
+    <LineBreak nWidth="7999" Line="-Work in field of artificial intelligence focusing industries like manufacturing, "/>
+    <Text nLength="77" nType="PortionType::Lay" nHeight="233" nWidth="7694" Portion="health, internet of things, energy sectors to help develop smart system that "/>
+    <LineBreak nWidth="7694" Line="health, internet of things, energy sectors to help develop smart system that "/>
+    <Text nLength="30" nType="PortionType::Lay" nHeight="233" nWidth="3217" Portion="optimize cost and maintenance."/>
+    <LineBreak nWidth="3217" Line="optimize cost and maintenance."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f0654b0" id="71" symbol="11SwTextFrame" next="72" prev="70" upper="108" txtNodeIndex="117" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="58608" width="9026" height="642" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="18" width="8666" height="624"/>
+    </infos>
+Work in field of computer vision to detect, recognize and track to help improve security for smart cities.     <Special nLength="0" nType="PortionType::Bullet" rText="-" nHeight="320">
+     <SwFont ptr="0x563c5c1f8430" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="373" nWidth="227"/>
+    <Text nLength="80" nType="PortionType::Text" nHeight="233" nWidth="7982" Portion="Work in field of computer vision to detect, recognize and track to help improve "/>
+    <LineBreak nWidth="8342" Line="-Work in field of computer vision to detect, recognize and track to help improve "/>
+    <Text nLength="27" nType="PortionType::Lay" nHeight="233" nWidth="2500" Portion="security for smart cities. "/>
+    <LineBreak nWidth="2500" Line="security for smart cities. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563c5f23fcf0" id="72" symbol="11SwTextFrame" prev="71" upper="108" txtNodeIndex="118" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="59250" width="9026" height="434" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="178" width="9026" height="256"/>
+    </infos>
+*    <Text nLength="1" nType="PortionType::TabLeft" nHeight="256" nWidth="1930" Portion="*"/>
+    <LineBreak nWidth="1930" Line="*"/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+</root>
